@@ -342,7 +342,7 @@ This project is submitted as a Capstone Project for the Google AI Agents Intensi
 
 ## Contact
 
-For questions or feedback about this project, please reach out to the development team.
+For questions or feedback about this project, please reach out to me.
 
 ---
 
